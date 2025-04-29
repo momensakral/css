@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Campana Script';
+    src: url('Campana-Script.eot');
+    src: url('Campana-Script.eot?#iefix') format('embedded-opentype'),
+         url('Campana-Script.woff2') format('woff2'),
+         url('Campana-Script.woff') format('woff'),
+         url('Campana-Script.ttf')  format('truetype'),
+         url('Campana-Script.svg#Campana Script') format('svg');
+}@font-face {
+    font-family: 'Campana Script';
+    src: url('https://cdn.jsdelivr.net/gh/momensakral/font@main/Campana-Script.eot');
+    src: url('https://cdn.jsdelivr.net/gh/momensakral/font@main/Campana-Script.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/momensakral/font@main/Campana-Script.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/momensakral/font@main/Campana-Script.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/momensakral/font@main/Campana-Script.ttf')  format('truetype'),
+         url('https://github.com/momensakral/font/blob/main/Campana-Script.svg#Campana Script') format('svg');
+}
